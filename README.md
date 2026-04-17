@@ -5,7 +5,7 @@ A high-stakes elimination protocol designed for any amount of players over 2 pla
 
 
 ### INSTRUCTIONS
-* **SHUFFLE (PIN A0):** Re-randomizes the chamber. Initiates a mandatory discharge sequence. Resets point multiplier to base value (1).
+* **SHUFFLE (PIN A0):** Re-randomizes the chamber. A mandatory discharge sequence must follow. Randomisation resets point multiplier to base value (1).
 * **FIRE (PIN A1):** Discharges the current chamber without rotation, before loading the next chamber.
     * **First round fired without shuffling:** 1 Point
     * **Second round fired without shuffling:** 2 Points
